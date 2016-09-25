@@ -1,0 +1,5 @@
+edition 1.0
+
+单地图对战
+
+	r1角色（Rplayer）  rd1敌人（Rfoe）  c摇杆（Crocker -control）  bg背景（background）  b障碍（obstacle）
